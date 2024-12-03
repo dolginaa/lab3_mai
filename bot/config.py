@@ -1,8 +1,6 @@
 import os
 
 # Токены
-BOT_TOKEN = os.getenv("BOT_TOKEN", "7595427949:AAH4WAJYOVwh8iNKd53KchZOaiVG1avBZ3k")
-HUGGINGFACE_TOKEN = os.getenv("HUGGINGFACE_TOKEN", "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")
 
 # Модели
 LLAMA_MODEL = "meta-llama/Meta-Llama-3-8B-Instruct"
